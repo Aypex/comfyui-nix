@@ -610,10 +610,8 @@ let
       url = "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/refs/heads/main/input/freckled_curly_girl.png";
       hash = "sha256-Qh3rE+6eKr1olayn78YhGfxjhV4pMfsIgrajXSkDoBc=";
     };
-    "frog_depth_input.mp4" = {
-      url = "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/refs/heads/main/input/frog_depth_input.mp4";
-      hash = "sha256-pvdGFA2FnGG6cfr948iVIGbgfuRIy8XS24TX0/WGw+I=";
-    };
+    # "frog_depth_input.mp4" removed — upstream file deleted from GitHub (404)
+    # See: https://github.com/utensils/comfyui-nix/issues/31
     "furry_ball.png" = {
       url = "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/refs/heads/main/input/furry_ball.png";
       hash = "sha256-BdLS4OFmmxrL40pO5vpxwG0hHcmoeH93SBNK8X6VFpc=";
